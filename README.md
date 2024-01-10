@@ -15,6 +15,7 @@ ___________________________________
 - Norint redaguoti rodomą turinį, paspauskite mygtuką "Edit".
 - Redaguotą (arba ne) tekstą galite išsaugoti jau esančiame .txt faile.
 - Jeigu norimo tuščio .txt failo nėra - saugojimo metu sukurkite naują .txt failą ir pasirinkite jį.
+- Baigę darbą, spauskite "Exit", kad programa užsidarytų.
 
   ___________________________________________________________________________
 
